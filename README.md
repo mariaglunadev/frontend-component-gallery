@@ -13,6 +13,7 @@ Aquí está la lista de los componentes que encontrarás en este repositorio. Ca
 | #  | Componente                  | Tecnologías     | Descripción                                           |
 |----|-----------------------------|-----------------|-------------------------------------------------------|
 | 01 | Botones       | `HTML` `CSS`    | Botones con efectos CSS. |
+| 02 | Loader de Barras Ondulantes       | `HTML` `CSS`    | Una animación de carga creativa hecha solo con CSS. |
 
 ## Estructura del Proyecto
 
@@ -21,6 +22,9 @@ Cada componente está aislado en su propia carpeta numerada para una fácil nave
 ```
 /
 ├── 01-buttons/
+│   ├── index.html
+│   └── style.css
+├── 02-loader-barras-ondulantes/
 │   ├── index.html
 │   └── style.css
 └── README.md
