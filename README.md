@@ -14,6 +14,7 @@ Aquí está la lista de los componentes que encontrarás en este repositorio. Ca
 |----|-----------------------------|-----------------|-------------------------------------------------------|
 | 01 | Botones       | `HTML` `CSS`    | Botones con efectos CSS. |
 | 02 | Loader de Barras Ondulantes       | `HTML` `CSS`    | Una animación de carga creativa hecha solo con CSS. |
+| 03 | Interruptor Día/Noche       | `HTML` `CSS`    | Un toggle switch temático con una fluida animación de sol y luna. |
 
 ## Estructura del Proyecto
 
