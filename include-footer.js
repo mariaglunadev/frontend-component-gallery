@@ -1,6 +1,6 @@
 // include-footer.js
 document.addEventListener('DOMContentLoaded', () => {
-    const footerPath = '/00-assets/footer.html'; 
+    const footerPath = 'https://mariaglunadev.github.io/frontend-component-gallery/00-assets/footer.html'; 
 
     fetch(footerPath)
         .then(response => {
